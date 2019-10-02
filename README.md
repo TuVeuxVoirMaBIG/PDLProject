@@ -84,11 +84,11 @@ Every small update increment the Z number by one and a major update (with tested
 
 ## Authors
 
-* **Kupratsevitch Vadim** - *Team leader - Java/UML developer* - [vad101010](https://github.com/vad101010)
-* **Wacquet Adrien** - *Java/UML developer - External components integrator* - [awacquet](https://github.com/awacquet)
-* **Legroux Thibaut** - *Java developer - Specification writer* - [thigroux](https://github.com/thigroux)
-* **Mande Guillaume** - *Java developer - Specification writer* - [guiMande](https://github.com/guiMande)
-* **Scrimali Gaetan** - *Java developer - Specification writer* - [Gueguette](https://github.com/Gueguette)
+* **Arnaud--Mozdzer Bastien** - *Team leader - Java/UML developer* - [](https://github.com/)
+* **Salerno Damien** - *Java/UML developer - Specification writer* - [Nrkz](https://github.com/Nrkz)
+* **Poilane Arthur** - *Java/UML developer - Specification writer* - [](https://github.com/)
+* **Bruhammer Mélina** - *Java/UML developer - Specification writer* - [](https://github.com/)
+* **Sarrazin Quentin** - *Java/UML developer - Specification writer* - [QuentinSarra](https://github.com/QuentinSarra)
 
 ## License
 
